@@ -1,0 +1,13 @@
+{
+  "name": "natural-tour",
+  "version": "1.0.0",
+  "description": "Landing page for Natural Tour",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Parman Putu",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.77.4"
+  }
+}
